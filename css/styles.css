@@ -8,7 +8,11 @@ img {
 }
 
 .box {
+  float: left;
   width: 30%;
   border: solid black;
   border-width: 1px;
+  background-color: rgb(236, 232, 232);
+  padding: 10 px;
+  margin: 5px;
 }
