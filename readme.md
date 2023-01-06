@@ -10,7 +10,7 @@
 
 ## Description
 
-_Portfolio page containing <mark>ll of the web pages</mark> I created during the first week of studies at Epicodus._
+_Portfolio page containing <mark>all of the web pages</mark> I created during the first week of studies at Epicodus._
 
 ## Setup/Installation Requirements
 
@@ -27,4 +27,4 @@ _Portfolio page containing <mark>ll of the web pages</mark> I created during the
 
 _If you run into a problem or in case you have any ideas or concerns please contact me._
 
-Copyright (c) _01/05/2023_ _Asia Kaplanyan_ 
+Copyright (c) _01/06/2023_ _Asia Kaplanyan_ 
