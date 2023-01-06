@@ -17,6 +17,10 @@ img {
   margin: 5px;
 }
 
+.padding {
+  padding-bottom: 49px;
+}
+
 li {
   animation-duration: 3s;
   animation-name: slidein;
@@ -24,12 +28,12 @@ li {
 
 @keyframes slidein {
   from {
-    margin-left: 100%;
-    width: 300%;
+    margin-left: 120%;
+    width: 150%;
   }
 
   75% {
-    font-size: 150%;
+    font-size: 120%;
     margin-left: 25%;
     width: 150%;
   }
