@@ -1,4 +1,4 @@
-# Webpage for Television Band
+# Portfolio page
 
 #### By Asia Kaplanyan
 
@@ -14,6 +14,7 @@ _Portfolio page containing all of the web page I created during the first week o
 ## Setup/Installation Requirements
 
 * _You need a web browser_
+* _Open this page from your browser https://asyakap.github.io/portfolio/_
 
 
 ## Known Bugs
