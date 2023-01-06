@@ -10,7 +10,7 @@
 
 ## Description
 
-_Portfolio page containing ==all of the web pages== I created during the first week of studies at Epicodus._
+_Portfolio page containing <mark>ll of the web pages</mark> I created during the first week of studies at Epicodus._
 
 ## Setup/Installation Requirements
 
